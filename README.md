@@ -6,3 +6,6 @@
 - ReverseLinkedList
 - DoublyLinkedList
 - ArrayStack
+- LinkedStack
+- BalanceParenthses
+- PostAndPrefix

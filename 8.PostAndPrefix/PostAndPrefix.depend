@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1628423990 source:c:\users\rohan\desktop\coding\c++\postandprefix\main.cpp
+	<iostream>
+	<stack>
+	<string.h>
+	<stdlib.h>
+

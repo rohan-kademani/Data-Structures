@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628410201 source:c:\users\rohan\desktop\coding\c++\balanaceparentheses\main.cpp
+	<iostream>
+	<stack>
+	<string>
+
