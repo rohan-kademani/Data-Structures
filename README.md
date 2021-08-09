@@ -1,6 +1,8 @@
 # Data-Structures-And-Algorithms
 
-## 📒Contents of Data Structures
+## Contents of Data Structures
+
+### Stacks and Queues
 - ArrayList
 - LinkedList
 - ReverseLinkedList
@@ -9,3 +11,4 @@
 - LinkedStack
 - BalanceParenthses
 - PostAndPrefix
+
