@@ -2,11 +2,13 @@
 
 ## Contents of Data Structures
 
-### 1.Stacks and Queues
+### 1.Arrays and LinkedList
 - ArrayList
 - LinkedList
 - ReverseLinkedList
 - DoublyLinkedList
+
+### 2.Stacks and Queues
 - ArrayStack
 - LinkedStack
 - BalanceParenthses
@@ -14,6 +16,6 @@
 - ArrayQueue
 - LinkedQueue
 
-### 2.Trees
+### 3.Trees
 - BinarySearchTree
 - MinMaxBST
