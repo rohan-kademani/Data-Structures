@@ -19,3 +19,7 @@
 ### 3.Trees
 - BinarySearchTree
 - MinMaxBST
+- HeightTree
+- LevelOrder
+- PreInPostorder
+
