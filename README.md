@@ -13,3 +13,7 @@
 - PostAndPrefix
 - ArrayQueue
 - LinkedQueue
+
+### Trees
+- BinarySearchTree
+- MinMaxBST
