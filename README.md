@@ -1,4 +1,4 @@
-# Data-Structures using C++
+# Data-Structures and Algorithms using C++
 
 ## Contents of Data Structures
 
