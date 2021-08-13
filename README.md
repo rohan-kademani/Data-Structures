@@ -22,4 +22,5 @@
 - HeightTree
 - LevelOrder
 - PreInPostorder
-
+- IsBST
+- BSTDeletion
